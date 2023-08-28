@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    justify-content: center;
+}
+
+img{
+    width: 300px;
+    padding-top: 20px;
+}
+
+.search{
+    background-color: rgb(237, 237, 237);
+    width: 90%;
+    margin: auto;
+}
+
+table{
+    margin: auto;
+    text-align: center;
+    width: 90%;
+
+}
+a{
+    color: blue;
+    font-size: 0.9rem;
+}
+p{
+    margin: 0.7rem;
+    font-size: 0.9rem;
+}
